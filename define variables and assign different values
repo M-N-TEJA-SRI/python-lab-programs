@@ -1,0 +1,10 @@
+a=2
+b=5.0
+c=True
+d="teja"
+li=[90,8]
+tu=(7,"teja")
+di={"teja",1}
+print(a,b,c,d,li,tu,di)
+  output
+  2 5.0 True teja [90, 8] (7, 'teja') {1, 'teja'}
