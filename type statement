@@ -1,0 +1,16 @@
+a=2
+b=5.0
+c=True
+d="teja"
+li=[90,8]
+tu=(7,"teja")
+di={"teja",1}
+print(type(a),type(b),type(c),type(d),type(li),type(tu),type(di))
+output
+<class 'int'>
+<class 'float'>
+<class 'bool>
+<class 'str'> 
+<class 'list'> 
+<class 'tuple'>
+<class 'set'>
