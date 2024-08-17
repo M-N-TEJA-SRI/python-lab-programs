@@ -1,0 +1,7 @@
+a=int(input("enter number"))
+b=float(input("enter float number"))
+print(a,b)
+output
+enter number9
+enter float number9.8
+9 9.8
